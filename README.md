@@ -21,7 +21,7 @@ Personal project to include in my CV QRCodes for my social profiles in Linkedin 
 
 ## Resulting QRCode
 ### My linkedin profile:
-![Resulting QRCode](https://github.com/guipatriota/QRCode-GitHub_and_linkedin/blob/master/QRlinkedin_Guilherme_Ditzel_Patriota.png)
+![Resulting QRCode](https://github.com/guipatriota/QRCode-GitHub_and_linkedin/blob/master/assets/QRlinkedin_Guilherme_Ditzel_Patriota.png)
 
 
 ## Python + PyQRCode
