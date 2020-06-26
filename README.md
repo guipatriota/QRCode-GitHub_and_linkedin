@@ -17,7 +17,8 @@ QRCode - GitHub and linkedin
 
 Personal project to include in my CV QRCodes for my social profiles in Linkedin and GitHub - 26/06/2020
 
-
+# Preview:
+## Resulting QRCode for my linkedin profile:
 ![Resulting QRCode](https://github.com/guipatriota/QRCode-GitHub_and_linkedin/blob/master/QRlinkedin_Guilherme_Ditzel_Patriota.png)
 
 
