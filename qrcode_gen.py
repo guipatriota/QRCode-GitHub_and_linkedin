@@ -20,4 +20,3 @@ qrcode_linkedin.eps ('QRlinkedin_{}.eps'.format(dev), scale = 2)
 qrcode_linkedin.png ('QRlinkedin_{}.png'.format(dev), scale = 6, module_color = [0, 0, 0, 255], background = [0xFF, 0xFF, 0xFF])
 qrcode_linkedin.show ()
 print ('LinkedIn profile: '+linkedin_url)
-# https://www.linkedin.com/in/guilhermepatriota/
